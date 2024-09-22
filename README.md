@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Related Projects<br>🤝 I’m looking for help with Backend <br>🌱 I’m currently learning Python Libraries Flask <br>
+🔭 I’m currently working on Python Related Projects<br>🤝 I’m looking for help with Backend <br>🌱 I’m currently learning Python Librarie Django<br>
 
 
 ## 🌐 Socials:
