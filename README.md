@@ -10,7 +10,7 @@
 
 - 🎓 B.E. in Information Technology, LDRP-ITR, Gandhinagar (2022–Present)  
 - 🧠 Skilled in **Backend Development** , **Cloud Platforms** , and **DevOps**  
-- 🌱 Currently enhancing expertise in **Cloud**, **DevOps**, and **Domain **  
+- 🌱 Currently enhancing expertise in **Cloud**& **DevOps** Domain
 - 🚀 Experienced in building and deploying projects involving AWS, Azure, Docker, Terraform, and Linux environments  
 - 💻 Strong foundation in **Python**, **C/C++**, with databases like **SQL** and **MongoDB**  
 - 📖 Passionate about learning and exploring new technologies across Linux, Web Development, and Cloud Domains  
