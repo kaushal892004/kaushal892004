@@ -88,6 +88,7 @@
 
 
 
+> **Note:** Most of my repositories are private for privacy reasons. Feel free to reach out to me personally if you'd like access to view them.
 
 
 
